@@ -1,0 +1,32 @@
+LA MESA ALTA — WEB ESTÁTICA
+
+Abre index.html para visitar la web.
+
+Páginas:
+- index.html: inicio.
+- eventos.html: desplazamientos, viajes, actividades y colaboraciones.
+- los-nuestros.html: la peña e información para socios.
+- merchandising.html: catálogo.
+- la-fresquisima.html: acceso al catálogo externo del pódcast.
+
+No utiliza base de datos, cuentas, formularios ni almacenamiento de datos personales.
+Los textos y la agenda se editan directamente en cada archivo HTML.
+
+PÓDCAST
+En site-links.js, sustituye podcast: null por podcast: "https://enlace-oficial-del-canal".
+El botón de todos los episodios aparecerá automáticamente. El catálogo se mantiene en la plataforma externa.
+No se han inventado enlaces, episodios, contactos, precios ni fechas.
+
+PENDIENTES PARA PONERLA EN MARCHA
+Enlace oficial del pódcast, contacto de la peña, cuotas de socios, agenda confirmada, precios y tallas de merchandising.
+La publicación en Sites sigue pendiente de autorización para subir la web y las imágenes.
+
+ACTUALIZACIÓN VISUAL
+Inicio ampliado, footer compartido, marcos verdes con radios 8/16 px y catálogo de seis productos ficticios.
+Instagram y X: sustituir instagram: null y x: null en site-links.js por las URL HTTPS oficiales. Mientras no se configuren, los botones muestran un aviso.
+Las fichas del catálogo se editan en merchandising.html. No hay pagos ni pedidos activos.
+
+IMAGEN DE MERCHANDISING
+Archivo: assets/merch-concepts.png
+Generada con la herramienta integrada image_gen. Productos ficticios, no fotografías de productos disponibles.
+Prompt: fotografía de producto en una retícula 3 × 2 sobre fondo crema, camiseta blanca con LA MESA ALTA, sudadera verde, bufanda verde y crema, gorra verde LMA, bolsa de algodón LA MESA ALTA y taza LMA. Colores #254c39 y #f6f0dc, iluminación de estudio, sin personas, sin bordes ni etiquetas.
